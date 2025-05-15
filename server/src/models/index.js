@@ -1,0 +1,11 @@
+export { default as User } from "./user.js";
+export { default as Hackathon } from "./hackathon.js";
+export { default as Team } from "./team.js";
+export { default as TeamMember } from "./teamMember.js";
+export { default as TeamInvitation } from "./teamInvitation.js";
+export { default as Project } from "./project.js";
+export { default as Enrollment } from "./enrollment.js";
+export { default as JudgeAssignment } from "./judgeAssignment.js";
+export { default as ProjectScore } from "./projectScore.js";
+export { default as Prize } from "./prize.js";
+export { default as Winner } from "./winner.js";
